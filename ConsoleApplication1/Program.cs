@@ -16,7 +16,7 @@ namespace ConsoleApplication1
             string operation;
             int answer;
 
-            Console.WriteLine("Hello, welcome to Alex's basic calculator!");
+            Console.WriteLine("Hello, welcome to Hadi asgp basic calculator!");
             Console.ReadLine();
 
             Console.Write("Enter the first number in your basic equation: ");
